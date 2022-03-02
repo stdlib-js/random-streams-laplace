@@ -1,0 +1,41 @@
+{
+  "name": "@stdlib/random-streams-laplace",
+  "version": "0.0.7",
+  "description": "Create a readable stream for generating pseudorandom numbers drawn from a Laplace (double exponential) distribution.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/random-streams-laplace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "statistics",
+    "stats",
+    "prng",
+    "rng",
+    "pseudorandom",
+    "random",
+    "rand",
+    "laplace",
+    "double",
+    "exponential",
+    "continuous",
+    "readable",
+    "stream",
+    "seed",
+    "seedable"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
